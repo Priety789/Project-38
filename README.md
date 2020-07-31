@@ -1,2 +1,2 @@
-# Project-38
-Incomplete blueprint for hurdles game. 
+# Class-40
+Multiplayer car-racing. 
